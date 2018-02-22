@@ -1,0 +1,4 @@
+toxic-kaggle/notebooks/.ipynb_checkpoints
+toxic-kaggle/models/*.hdf5
+toxic-kaggle/models/
+toxic-kaggle/data/
